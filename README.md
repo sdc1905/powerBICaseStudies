@@ -9,7 +9,7 @@
 
 # Zomato Sales Analysis
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+An all round analysis on Zomato data to find insights about sales, ratings and areas of improvement
 
 </header>
 
