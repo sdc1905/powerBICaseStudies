@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Zomato Sales Analysis
+# Power BI Case Studies
 
-An all round analysis on Zomato data to find insights about sales, ratings and areas of improvement
+Different case studies that I have done so far using powerBI
 
 </header>
 
@@ -23,6 +23,9 @@ An all round analysis on Zomato data to find insights about sales, ratings and a
 
 ## Zomato Business requirement
 The Zomato Analytics Dashboard aims to provide insights into food delivery performance, restaurant reviews, and customer preferences. It will help stakeholders identify trends, improve delivery operations, and enhance customer satisfaction.
+
+## Blinkit Business requirement
+The Blinkit Analytics Dashboard aims to provide insights into food delivery performance, and customer preferences. It will help stakeholders identify trends, improve delivery operations, and enhance customer satisfaction.
 
 
 <footer>
